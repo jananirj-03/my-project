@@ -1,1 +1,2 @@
 This is a demo project file
+and some contents were added
